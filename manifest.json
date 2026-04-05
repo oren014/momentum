@@ -1,28 +1,28 @@
 {
-  "id": "./",
+  "id": "/momentum/",
   "name": "Momentum",
   "short_name": "Momentum",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/momentum/index.html",
+  "scope": "/momentum/",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "any",
   "background_color": "#0d1b2a",
   "theme_color": "#0d1b2a",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "main-img.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "main-img.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "main-img.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
